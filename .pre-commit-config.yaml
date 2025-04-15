@@ -14,11 +14,6 @@ repos:
     -   id: gitleaks
         language_version: 1.23.6
 
--   repo: https://github.com/crate-ci/typos
-    rev: v1.30.2
-    hooks:
-    -   id: typos
-
 -   repo: https://github.com/rhysd/actionlint
     rev: v1.7.7
     hooks:
